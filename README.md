@@ -7,7 +7,7 @@ Powershell script to scan multiple malware hashes in VT and check your AV vendor
 * Script will generate an output file Trend_detection.txt with detection details
 
 ### Usage:
-powershell.exe -noprofile -executionpolicy bypass -file .\VTscan.ps1
+> powershell.exe -noprofile -executionpolicy bypass -file .\VTscan.ps1
 
 
 
