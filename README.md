@@ -1,4 +1,4 @@
-# PS-VTScan
+# VT-HashScan
 
 Powershell script to scan multiple malware hashes in VT and check your AV vendor detection status. 
 
